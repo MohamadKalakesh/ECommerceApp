@@ -16,7 +16,8 @@ namespace API.Data
                         Price = 10000,
                         PictureUrl = "/images/products/product1.png",
                         Type = "Type1",
-                        Brand = "Brand1"
+                        Brand = "Brand1",
+                        QuantityInStock = 100
                     },
                     new Product {
                         Name = "Product2",
@@ -24,7 +25,8 @@ namespace API.Data
                         Price = 20000,
                         PictureUrl = "/images/products/product2.png",
                         Type = "Type2",
-                        Brand = "Brand3"
+                        Brand = "Brand3",
+                        QuantityInStock = 100
                     },
                     new Product {
                         Name = "Product3",
@@ -32,7 +34,8 @@ namespace API.Data
                         Price = 15000,
                         PictureUrl = "/images/products/product3.png",
                         Type = "Type4",
-                        Brand = "Brand2"
+                        Brand = "Brand2",
+                        QuantityInStock = 100
                     },
                     new Product {
                         Name = "Product4",
@@ -40,7 +43,8 @@ namespace API.Data
                         Price = 13000,
                         PictureUrl = "/images/products/product4.png",
                         Type = "Type2",
-                        Brand = "Brand1"
+                        Brand = "Brand1",
+                        QuantityInStock = 100
                     },
                     new Product {
                         Name = "Product5",
@@ -48,7 +52,8 @@ namespace API.Data
                         Price = 10000,
                         PictureUrl = "/images/products/product5.png",
                         Type = "Type3",
-                        Brand = "Brand2"
+                        Brand = "Brand2",
+                        QuantityInStock = 100
                     }
                 };
 
